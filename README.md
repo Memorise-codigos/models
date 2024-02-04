@@ -1,5 +1,5 @@
 [⬅Voltar](https://memorise-codigos.github.io/)
-# Baixe diversos modelos de IA para usar nos seus projetos.
+# 🤖 Baixe diversos modelos de IA para usar nos seus projetos.
 
 ## Whisper
 O projeto Whisper, desenvolvido pela OpenAI, é um modelo de reconhecimento de fala de última geração com diversas funcionalidades:
